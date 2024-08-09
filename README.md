@@ -11,12 +11,13 @@ You can download the Discord SSL Pinning Bypass using the link below:
 
 If you have any questions or need further assistance, feel free to reach out to us on Telegram:
 
+**My Telegram :**
 <a href="https://t.me/g_4_q" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" style="vertical-align: middle;" width="20" height="20">
     Contact on Telegram
 </a>
 
-Or join my channel :
+**Or join my channel :**
 <a href="https://t.me/+bAYx_QByWVM1YWEy" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" style="vertical-align: middle;" width="20" height="20">
     Join our Telegram Channel
