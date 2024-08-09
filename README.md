@@ -1,4 +1,4 @@
 # discord-ssl-pinning-bypass
+## Download
 
-## Download 
- [Here].(https://github.com/اسم_المستودع/releases/download/رقم_الإصدار/اسم_الملف.apk).
+You can download the APK file from [here](https://github.com/your-repository/releases/download/version/filename.apk).
