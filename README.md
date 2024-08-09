@@ -16,8 +16,7 @@ If you have any questions or need further assistance, feel free to reach out to 
     Contact on Telegram
 </a>
 
-**Or join our channel :**  
-
+**Or join our channel :**
 <a href="https://t.me/+bAYx_QByWVM1YWEy" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" style="vertical-align: middle;" width="20" height="20">
     Join our Telegram Channel
