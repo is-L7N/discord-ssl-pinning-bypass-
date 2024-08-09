@@ -15,3 +15,7 @@ If you have any questions or need further assistance, feel free to reach out to 
     <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" width="20" height="20">
     Contact on Telegram
 </a>
+<a href="https://t.me/g_4_q" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" width="20" height="20">
+    Contact on Telegram
+</a>
