@@ -7,7 +7,7 @@ You can download the Discord SSL Pinning Bypass using the link below:
     Download Discord SSL Pinning Bypass Tool
 </a>
 
-## Contact Us
+## Contact me
 
 If you have any questions or need further assistance, feel free to reach out to us on Telegram:
 
