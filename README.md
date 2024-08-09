@@ -2,8 +2,8 @@
 
 You can download the Discord SSL Pinning Bypass using the link below:
 
-<a href="https://github.com/is-L7N/discord-ssl-pinning-bypass-/releases/download/discord/Discord-Ssl-By-L7N.apk" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/2335/2335279.png" alt="Discord Icon" width="20" height="20">
+<a href="URL_TO_YOUR_TOOL" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/128/2335/2335279.png" alt="Discord Icon" style="vertical-align: middle;" width="20" height="20">
     Download Discord SSL Pinning Bypass Tool
 </a>
 
@@ -11,13 +11,14 @@ You can download the Discord SSL Pinning Bypass using the link below:
 
 If you have any questions or need further assistance, feel free to reach out to us on Telegram:
 
-<a href="https://t.me/g_4_q" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" width="20" height="20">
+<a href="https://t.me/g_4_q" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" style="vertical-align: middle;" width="20" height="20">
     Contact on Telegram
 </a>
-Or join our channel:
 
-<a href="https://t.me/+bAYx_QByWVM1YWEy" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" width="20" height="20">
+**Or join our channel :**  
+
+<a href="https://t.me/+bAYx_QByWVM1YWEy" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" alt="Telegram Icon" style="vertical-align: middle;" width="20" height="20">
     Join our Telegram Channel
 </a>
